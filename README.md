@@ -28,3 +28,9 @@
   npm start
   ```
 4. Open ```http://localhost:3000``` in your browser
+
+## Current Limitations
+- OCR results depend heavily on report quality and formatting.
+- Edge cases (e.g., unusual report layouts) may not parse perfectly.
+- No authentication or storage of user data.
+
